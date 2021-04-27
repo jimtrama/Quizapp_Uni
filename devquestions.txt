@@ -1,0 +1,29 @@
+films/Who is the actor depicted in the above image?/Leonardo Di Caprio/Johnny Depp/Tom Cruise/Brad Pitt/Leonardo Di Caprio/16.png
+films/Who is the actor depicted in the above image?/Leonardo Di Caprio/Johnny Depp/Tom Cruise/Brad Pitt/Leonardo Di Caprio/16.png
+films/Who is the actor depicted in the above image?/Leonardo Di Caprio/Johnny Depp/Tom Cruise/Brad Pitt/Leonardo Di Caprio/16.png
+films/Who is the actor depicted in the above image?/Leonardo Di Caprio/Johnny Depp/Tom Cruise/Brad Pitt/Leonardo Di Caprio/16.png
+films/Who is the actor depicted in the above image?/Leonardo Di Caprio/Johnny Depp/Tom Cruise/Brad Pitt/Leonardo Di Caprio/16.png
+films/Who is the actor depicted in the above image?/Leonardo Di Caprio/Johnny Depp/Tom Cruise/Brad Pitt/Leonardo Di Caprio/16.png
+
+sports/How many players are there in a Water Polo team?/Seven/Ten/Five/Six/Seven/null
+sports/How many players make up a basketball team?/Seven/Ten/Five/Six/Five/null
+sports/What country won the 1982 World Cup in Spain defeating West Germany 3-1?/Italy/Argentina/France/Hungary/Italy/null
+
+football/Which club won the 1986 FA Cup final?/Liverpool/Everton/Manchester United/West Ham/Liverpool/null
+football/Who managed West Ham United between 2008 and 2010?/Gianfranco Zola/Roy Hodgson/Rafael Benitez/David Moyes/Gianfranco Zola/null
+football/In which year did Arsenal move to The Emirates Stadium from Highbury?/2006/2001/1999/2003/2006/null
+football/Which club won the 1986 FA Cup final?/Liverpool/Everton/Manchester United/West Ham/Liverpool/null
+football/Who managed West Ham United between 2008 and 2010?/Gianfranco Zola/Roy Hodgson/Rafael Benitez/David Moyes/Gianfranco Zola/null
+football/In which year did Arsenal move to The Emirates Stadium from Highbury?/2006/2001/1999/2003/2006/null
+
+generalknowledge/How much time does it take on average for the Sun's light to reach the Earth/8 minutes and 20 seconds/5 minutes/35 seconds/2 hours and 45 minutes/8 minutes and 20 seconds/null
+generalknowledge/Which now famous TV chef started cooking at the age of eight in his parents’ pub, ‘The Cricketers’, in Clavering, Essex?/Jamie Oliver/2/3/Gordon Ramsey/Jamie Oliver/null
+generalknowledge/What year did the Titanic sink in the Atlantic Ocean on 15 April, on its maiden voyage from Southampton?/1912/1997/1915/1887/1912/null
+
+worldhistory/When did the city of Thessaloniki become a part of the Kingdom of Greece?/1912/1914/1920/1830/1912/null
+worldhistory/Which part of Berlin was enclosed by the wall?/The West/The South/The North/The East/The West/null
+worldhistory/Which English king built castles in the 13th century to help conquer Wales?/Edward I/Edward II/William the Conqueror/King Egbert/Edward I/null
+
+science/How many protons does a hydrogen atom has in nature?/Zero/Two/Three/One/Zero/null
+science/What is the smallest planet in our solar system?/Mercury/Venus/Mars/Jupiter/Mercury/null
+science/Who was the physicist that first described the Theory of Relativity?/Albert Einstein/Isaac Newton/Erwin Schrödinger/Sheldon Cooper/Albert Einstein/null

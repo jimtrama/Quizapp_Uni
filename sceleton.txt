@@ -1,0 +1,16 @@
+DEADLINE1:6/12
+FINAL DEADLINE:13/1
+
+
+
+
+Dimitris:
+Settings
+Command execution
+
+Iordanis:
+crash on user input (int)
+use of setHighsore
+Exit to menu
+
+ 
